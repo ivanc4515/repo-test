@@ -3,5 +3,5 @@
 * git init
 * make README file and add it
 * commit the file
-* then past th code fron Github
+* then paste the code fron Github
 *
